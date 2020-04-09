@@ -7,6 +7,6 @@ From the images above, chose a wireframe to guide your design for today's projec
 - [X]  Information about you in place of the given placeholder
 - [X]  A `My Projects` button (doesn't need to be functional)
 - [X]  A `Contact Me` button (doesn't need to be functional)
-- [ ]  Link navigation items to new HTML pages
+- [X]  Link navigation items to new HTML pages
 
 Some choices are easier than others, pick something that feels right to you. 
